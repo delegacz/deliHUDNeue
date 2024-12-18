@@ -49,8 +49,8 @@
 	"CHudAccountPanel"
 	{
 		"xpos"         								"c-100"
-		"ypos"										"c53"
-		"ypos_minmode"								"c53"
+		"ypos"										"c38"
+		"ypos_minmode"								"c38"
 		"wide"										"200"
 		"tall"  									"50"
 	}
@@ -330,7 +330,19 @@
 		"wide"										"246"
 		"tall"										"121"
 	}
-	
+
+	"CurrencyStatusPanel"
+	{
+		"ControlName"			"CCurrencyStatusPanel"
+		"fieldName"				"CurrencyStatusPanel"
+		"xpos"					"c-152"
+		"ypos"					"r66"
+		"wide"					"110"
+		"tall"					"20"
+		"visible" 				"1"
+		"enabled" 				"1"
+		"PaintBackgroundType"	"2"
+	}
 	
 	
 	//====================================================================================================
