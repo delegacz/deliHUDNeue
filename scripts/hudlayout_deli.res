@@ -49,8 +49,8 @@
 	"CHudAccountPanel"
 	{
 		"xpos"         								"c-100"
-		"ypos"										"c53"
-		"ypos_minmode"								"c53"
+		"ypos"										"c38"
+		"ypos_minmode"								"c38"
 		"wide"										"200"
 		"tall"  									"50"
 	}
