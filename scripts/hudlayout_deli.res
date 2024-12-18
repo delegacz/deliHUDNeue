@@ -330,7 +330,19 @@
 		"wide"										"246"
 		"tall"										"121"
 	}
-	
+
+	"CurrencyStatusPanel"
+	{
+		"ControlName"			"CCurrencyStatusPanel"
+		"fieldName"				"CurrencyStatusPanel"
+		"xpos"					"c-152"
+		"ypos"					"r66"
+		"wide"					"110"
+		"tall"					"20"
+		"visible" 				"1"
+		"enabled" 				"1"
+		"PaintBackgroundType"	"2"
+	}
 	
 	
 	//====================================================================================================
